@@ -1,0 +1,48 @@
+CREATED BY MANISH KUMAR
+FOR ANY QUERY CONTACT: +manish.kumar212111@gmail.com
+-----------------------------------------------------------------------------------------------------------------------
+
+THIS IS THE SOFTWARE TO EXECUTE TIME BASED PAYMENT SYSTEM FOR BOTH REGULAR AND IRREGULAR CUSTOMER .
+FOR EXAMPLE IN CYBERCAFE CUSTMER PAY AS THE SPENT THE TIME WITHIN THE SYSTEM.
+-----------------------------------------------------------------------------------------------------------------------
+
+THEIR ARE SIX SUB-MODULE OF THE SOFTWARE-
+
+1. MAIN_MODULE.H- CONTAIN ALL SUB-MODULE
+
+2. REGULAR.H - PROCESS ON REGULAR CUSTOMER SUCH AS CHECKIN, CHECKOUT.
+
+3. IRREGULAR.H-  PROCESS ON IRREGULAR CUSTOMER SUCH AS CHECKIN, CHECKOUT.
+
+4. CARD.H- IN THIS MODULE WE CAN GENERETE CARD.
+
+5. UPDATE.H- IN THIS MODULE WE CAN  UPDATE CARD.
+
+6. SEE_RECORD- IN THIS MODULE WE CAN SEE OVERALL RECORD FOR A DAY.
+
+CYBERCAFE.C IS THE MAIN MODULE WHICH INCLUDE ALL SIX MODULES.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+CONSTRAINTS:  ANY INPUT CAN NOT BE SKIPPED.
+	      ID WILL AUTOMATICALLY GENERETED.
+	      ID IS PRIMARY AND CAN NOT BE MODIFIED.
+	      RECIEPT WILL PRINTED IN FILE.
+	      
+-----------------------------------------------------------------------------------------------------------------------
+TEXT FILE GENERETED
+REGULAR.TXT
+IRREGULAR.TXT
+CARD_REGISTERATIO.TXT
+TOTAL_LIST.TXT
+PRINT_FORM.TXT
+
+-------------------------------------------------------------------------------------------------------------------------
+NOTE:--
+
+SPACE IS NOT ALLOWED ANYWHERE IN THE INPUT OF SOFTWARE, IF BY MISTAKE SPACE IS PRESSED THEN CREATE BACKUP AND DELETE ALL 
+THE GENERETED TEXT FILE AND RESTART THE PROGRAM.
+RUN ONLY ON TURBO C++ COMPILER.
+
+					THANK YOU
+***********************************************************************************************************************  
